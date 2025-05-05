@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigasi</string>
+    <string name="transaction" />
+    <string name="budget">budget</string>
+    <string name="tasks">tasks</string>
+    <string name="settings">settings</string>
+</resources>
